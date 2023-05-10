@@ -7,14 +7,14 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['919142294671'] //ur owner number
+global.ownername = "NG SID" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
-global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
+global.botname = 'GARENA BOT MD' //ur bot name
+global.wm = "GARENA" //ur watermark
 
-global.keyopenai = "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",
+global.keyopenai = "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",
 //React Messages 
 global.OWNER_REACT = '🥀' //Owner's Messages react emoji
 global.AUTO_REACT = 'true' // React Messags auto
@@ -33,7 +33,7 @@ global.READ_MASSAGE = true
 global.VOICE_REPLY = true
 
 // Do you want show time on your bio use "true" want desable use "false"
-global.AUTO_BIO = false
+global.AUTO_BIO = true
 
 // Inbox massage block PM block
 global.INBOX_BLOCK = false
@@ -75,7 +75,7 @@ global.alivelogo = process.env.ALIVE_LOGO || `https://te.legra.ph/file/a9293226a
 global.alive = process.env.ALIVE_MESSAGE 
 
 //Sticker Making 
-global.packname = "ǫᴜᴇᴇɴ ɴɪʟᴜ 💃" 
+global.packname = "queen nilu 💃" 
 
 //Anti Bad Word
 global.ANTI_BADWORD = 'true'
