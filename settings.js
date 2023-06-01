@@ -8,13 +8,13 @@ const chalk = require('chalk')
 
 //Owner Number & Name 
 global.owner = ['919142294671'] //ur owner number
-global.ownername = "NG SID" //ur owner name
+global.ownername = "BZR SID" //ur owner name
 
 //Bot Name 
 global.botname = 'GARENA BOT MD' //ur bot name
 global.wm = "GARENA" //ur watermark
 
-global.keyopenai = "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",
+global.keyopenai = "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",
 //React Messages 
 global.OWNER_REACT = '🥀' //Owner's Messages react emoji
 global.AUTO_REACT = 'true' // React Messags auto
@@ -27,10 +27,10 @@ BOT SETTINGS
 //Language English = 'EN' , Sinhala = 'SI' , Tamil= 'TL'
 global.LANG = 'EN'
 
-global.READ_MASSAGE = true
+global.READ_MASSAGE = false
 
 // enable desable Girls Voice Reply
-global.VOICE_REPLY = true
+global.VOICE_REPLY = false
 
 // Do you want show time on your bio use "true" want desable use "false"
 global.AUTO_BIO = true
@@ -45,7 +45,7 @@ global.INBOX_BLOCK_MSG = 'blockedd'
 global.ANTI_BADWORD = 'true'
 
 
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 QUEEN NILU ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 BZR SID ²⁰²³'
 
 // Menu imoji 
 global.MENU_IMOJI = '💃|🧸'
@@ -61,7 +61,7 @@ global.SONG_UP = '```⬆️ Uploding Your Song...```'
 global.SEX_VIDEO_DOWNLOAD ='true'
 
 //Kick Message 
-global.KICK_MSG = ' ' 
+global.KICK_MSG = 'YOU ARE KICKED FROM @GROUPNAME' 
 
 //Links (URLS)
 global.ytname = "YT: janithsadanuwan" //ur yt chanel name
